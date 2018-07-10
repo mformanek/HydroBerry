@@ -1,9 +1,8 @@
 '''
 
-Adapted excerpt from Getting Started with Raspberry Pi by Matt Richardson
 
-Modified by Rui Santos
-Complete project details: http://randomnerdtutorials.com
+Based on project by Rui Santos
+details: http://randomnerdtutorials.com
 
 '''
 
